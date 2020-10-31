@@ -1,2 +1,6 @@
-# DS-BA_Projects_Presentations
-A collection of the summary results presentations after completing DS &amp; BA projects for a diverse number of customers.
+# DS-BA Project Presentations
+
+This repo contains the deck-slides built as a summary presentation of several Data Science (DS) and Business Analysis (BA) project outputs.
+
+The data details are not revealed as part of the NDA signed with the clients.
+Some client names might be modified to protect customer identity.
